@@ -23,13 +23,13 @@ data = {
         'How can I join a student club?'
     ],
     'Answer': [
-        'Final exams are scheduled from December 10th to December 20th.',
+        'Final exams are scheduled from November 25th to December 7th.',
         'ECE 101 is an introductory course on electronics. It covers basic circuit theory and electronic devices. Instructor: Prof. Srinivasa Rao.',
         'You can access your previous semester results via the student portal under the "Grades" section.',
         'The library is open from 8 AM to 9 PM on weekdays, and from 10 AM to 2 PM on weekends.',
         'The prerequisite for ECE 202 is ECE 101.',
-        'The instructor for CS101 is Dr. Priya Mehta.',
-        'Yes, you can change your major by submitting a request to the academic office. The deadline for major change requests is ecember 15th.',
+        'The instructor for CS101 is Divya Sirpuri.',
+        'Yes, you can change your major by submitting a request to the academic office. The deadline for major change requests is December 15th.',
         'Classes for the next semester start on January 5th.',
         'You can apply for graduation by filling out the graduation application form on the student portal. The deadline for applications is April 1st.',
         'You can join a student club by attending the club fairs held at the start of each semester or by contacting the club coordinators directly.'
